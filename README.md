@@ -11,6 +11,6 @@ Repositório com minhas soluções para problemas do LeetCode, organizados por t
 - Solução otimizada para `LC1 (TwoSum)` em O(n).  
 
 ## 📈 Metas Futuras  
-- [ ] Completar 100 problemas resolvidos.   
-
+- [ ] Completar 100 problemas resolvidos.
+        
 🔗 **Perfil LeetCode**: [felipe-dalaqua](https://leetcode.com/felipe-dalaqua/)  
